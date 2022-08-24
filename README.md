@@ -13,7 +13,7 @@ Create New and Name the source YTPLAYER
 
 Check the 'Local File' Box
 
-Select file 'YTPLAYER.html'
+Select file 'YT-Player-OBS.html'
 
 Set Width to OBS Canvas Width
 
