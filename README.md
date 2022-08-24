@@ -31,6 +31,8 @@ Check the 'Refresh browser when scene becomes active' Box
 
 To customize this code for your stream, make sure these three parameters reflect your setup: Width, Height, and Video ID
 
+**Changes to YT-Player-OBS.html can be made in Notepad (Windows) or TextEdit (macOS)**
+
 ### **WIDTH**
 Set width above to width of OBS Canvas
 
