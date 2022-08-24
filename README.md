@@ -25,6 +25,8 @@ Check the 'Shutdown source when not visible' Box
 
 Check the 'Refresh browser when scene becomes active' Box
 
+![OBS Browser Setup](https://i.imgur.com/h1RFSuZ.png)
+
 ## **Customizing Your Parameters**
 
 To customize this code for your stream, make sure these three parameters reflect your setup: Width, Height, and Video ID
@@ -35,9 +37,12 @@ Set width above to width of OBS Canvas
 ### **HEIGHT**
 Set height above to height of OBS Canvas
 
+**Can be found in OBS -> File -> Settings -> Video**
+
+![OBS Canvas](https://i.imgur.com/w2GFHDm.png)
 
 ### **VIDEO ID**
-Replace BKFzJJbz_m0 with the video ID of your YT stream
+Replace 'BKFzJJbz_m0' with the video ID of your YT stream
 
 Can be found either as https://www.youtube.com/watch?v=YOUR_CODE_HERE or as https://youtu.be/YOUR_CODE_HERE
 
